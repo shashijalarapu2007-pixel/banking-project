@@ -4,4 +4,4 @@ function calculateSI(){
     var r=document.getElementById('rate').value;
     var si=(p*n*r)/100;
     document.getElementById("res").innerHTML +=" " + si + " Rs.";
-} git a
+} 
